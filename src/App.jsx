@@ -1,4 +1,5 @@
 import './App.css'
+import Accomodate from './study/Accommodate'
 import Clock from './study/Clock'
 import CommentList from './study/CommentList'
 
@@ -12,6 +13,7 @@ function App() {
       </p>
       <Clock />
       <CommentList />
+      <Accomodate />
     </>
   )
 }
